@@ -1,5 +1,5 @@
-.sh
-.bak
+*.sh
+*.bak
 .DS_Store
 .DS_Store?
 ._*
@@ -8,4 +8,3 @@
 ehthumbs.db
 Thumbs.db
 pubs.html
-index.bak
