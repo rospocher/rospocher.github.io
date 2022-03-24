@@ -30,15 +30,15 @@
     <changefreq>weekly</changefreq>
   </url>
   <url>
+    <loc>https://marcorospocher.com/files/awards/2008iswc.pdf</loc>
+    <changefreq>weekly</changefreq>
+  </url>
+  <url>
     <loc>https://marcorospocher.com/files/bibs/2022dke.bib</loc>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://marcorospocher.com/files/bibs/2021ijdl.bib</loc>
-    <changefreq>weekly</changefreq>
-  </url>
-  <url>
-    <loc>https://marcorospocher.com/files/awards/2008iswc.pdf</loc>
     <changefreq>weekly</changefreq>
   </url>
   <url>
@@ -174,11 +174,15 @@
     <changefreq>weekly</changefreq>
   </url>
   <url>
-    <loc>https://marcorospocher.com/files/bibs/2017sac.bib</loc>
+    <loc>https://marcorospocher.com/files/slides/2018ijcai_slides.pdf</loc>
     <changefreq>weekly</changefreq>
   </url>
   <url>
-    <loc>https://marcorospocher.com/files/slides/2018ijcai_slides.pdf</loc>
+    <loc>https://marcorospocher.com/files/posters/2018ijcai_poster.pdf</loc>
+    <changefreq>weekly</changefreq>
+  </url>
+  <url>
+    <loc>https://marcorospocher.com/files/bibs/2017sac.bib</loc>
     <changefreq>weekly</changefreq>
   </url>
   <url>
@@ -186,7 +190,7 @@
     <changefreq>weekly</changefreq>
   </url>
   <url>
-    <loc>https://marcorospocher.com/files/posters/2018ijcai_poster.pdf</loc>
+    <loc>https://marcorospocher.com/files/slides/2016sac_slides.pdf</loc>
     <changefreq>weekly</changefreq>
   </url>
   <url>
@@ -198,10 +202,6 @@
     <changefreq>weekly</changefreq>
   </url>
   <url>
-    <loc>https://marcorospocher.com/files/slides/2016sac_slides.pdf</loc>
-    <changefreq>weekly</changefreq>
-  </url>
-  <url>
     <loc>https://marcorospocher.com/files/bibs/2016gwc.bib</loc>
     <changefreq>weekly</changefreq>
   </url>
@@ -210,11 +210,11 @@
     <changefreq>weekly</changefreq>
   </url>
   <url>
-    <loc>https://marcorospocher.com/files/bibs/2016ekaw.bib</loc>
+    <loc>https://marcorospocher.com/files/slides/2016eswc_slides.pdf</loc>
     <changefreq>weekly</changefreq>
   </url>
   <url>
-    <loc>https://marcorospocher.com/files/slides/2016eswc_slides.pdf</loc>
+    <loc>https://marcorospocher.com/files/bibs/2016ekaw.bib</loc>
     <changefreq>weekly</changefreq>
   </url>
   <url>
@@ -234,11 +234,11 @@
     <changefreq>weekly</changefreq>
   </url>
   <url>
-    <loc>https://marcorospocher.com/files/bibs/2015iswcdemo1.bib</loc>
+    <loc>https://marcorospocher.com/files/posters/madness/2015iswcdemo2_madness.pdf</loc>
     <changefreq>weekly</changefreq>
   </url>
   <url>
-    <loc>https://marcorospocher.com/files/posters/madness/2015iswcdemo2_madness.pdf</loc>
+    <loc>https://marcorospocher.com/files/bibs/2015iswcdemo1.bib</loc>
     <changefreq>weekly</changefreq>
   </url>
   <url>
@@ -246,15 +246,19 @@
     <changefreq>weekly</changefreq>
   </url>
   <url>
-    <loc>https://marcorospocher.com/files/bibs/2015cilc.bib</loc>
-    <changefreq>weekly</changefreq>
-  </url>
-  <url>
     <loc>https://marcorospocher.com/files/posters/madness/2015iswcdemo1_madness.pdf</loc>
     <changefreq>weekly</changefreq>
   </url>
   <url>
+    <loc>https://marcorospocher.com/files/bibs/2015cilc.bib</loc>
+    <changefreq>weekly</changefreq>
+  </url>
+  <url>
     <loc>https://marcorospocher.com/files/bibs/2014ksem.bib</loc>
+    <changefreq>weekly</changefreq>
+  </url>
+  <url>
+    <loc>https://marcorospocher.com/files/slides/2014ksem_slides.pdf</loc>
     <changefreq>weekly</changefreq>
   </url>
   <url>
@@ -266,6 +270,10 @@
     <changefreq>weekly</changefreq>
   </url>
   <url>
+    <loc>https://marcorospocher.com/files/posters/2014iswcdemo2_poster.pdf</loc>
+    <changefreq>weekly</changefreq>
+  </url>
+  <url>
     <loc>https://marcorospocher.com/files/posters/madness/2014iswcdemo2_madness.pdf</loc>
     <changefreq>weekly</changefreq>
   </url>
@@ -274,19 +282,15 @@
     <changefreq>weekly</changefreq>
   </url>
   <url>
-    <loc>https://marcorospocher.com/files/slides/2014ksem_slides.pdf</loc>
+    <loc>https://marcorospocher.com/files/posters/2014iswcdemo1_poster.pdf</loc>
     <changefreq>weekly</changefreq>
   </url>
   <url>
-    <loc>https://marcorospocher.com/files/posters/2014iswcdemo2_poster.pdf</loc>
+    <loc>https://marcorospocher.com/files/posters/madness/2014iswcdemo1_madness.pdf</loc>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://marcorospocher.com/files/bibs/2014foispescado.bib</loc>
-    <changefreq>weekly</changefreq>
-  </url>
-  <url>
-    <loc>https://marcorospocher.com/files/posters/2014iswcdemo1_poster.pdf</loc>
     <changefreq>weekly</changefreq>
   </url>
   <url>
@@ -298,11 +302,11 @@
     <changefreq>weekly</changefreq>
   </url>
   <url>
-    <loc>https://marcorospocher.com/files/bibs/2014ekawdemo.bib</loc>
+    <loc>https://marcorospocher.com/files/slides/2014foisbpmn_slides.pdf</loc>
     <changefreq>weekly</changefreq>
   </url>
   <url>
-    <loc>https://marcorospocher.com/files/posters/madness/2014iswcdemo1_madness.pdf</loc>
+    <loc>https://marcorospocher.com/files/bibs/2014ekawdemo.bib</loc>
     <changefreq>weekly</changefreq>
   </url>
   <url>
@@ -310,7 +314,15 @@
     <changefreq>weekly</changefreq>
   </url>
   <url>
+    <loc>https://marcorospocher.com/files/posters/madness/2014ekawdemo_madness.pdf</loc>
+    <changefreq>weekly</changefreq>
+  </url>
+  <url>
     <loc>https://marcorospocher.com/files/bibs/2014ekaw.bib</loc>
+    <changefreq>weekly</changefreq>
+  </url>
+  <url>
+    <loc>https://marcorospocher.com/files/slides/2014ekaw_slides.pdf</loc>
     <changefreq>weekly</changefreq>
   </url>
   <url>
@@ -318,15 +330,11 @@
     <changefreq>weekly</changefreq>
   </url>
   <url>
-    <loc>https://marcorospocher.com/files/slides/2014foisbpmn_slides.pdf</loc>
-    <changefreq>weekly</changefreq>
-  </url>
-  <url>
     <loc>https://marcorospocher.com/files/bibs/2013icsc.bib</loc>
     <changefreq>weekly</changefreq>
   </url>
   <url>
-    <loc>https://marcorospocher.com/files/slides/2014ekaw_slides.pdf</loc>
+    <loc>https://marcorospocher.com/files/slides/2013icsc_slides.pdf</loc>
     <changefreq>weekly</changefreq>
   </url>
   <url>
@@ -338,11 +346,7 @@
     <changefreq>weekly</changefreq>
   </url>
   <url>
-    <loc>https://marcorospocher.com/files/posters/madness/2014ekawdemo_madness.pdf</loc>
-    <changefreq>weekly</changefreq>
-  </url>
-  <url>
-    <loc>https://marcorospocher.com/files/slides/2013icsc_slides.pdf</loc>
+    <loc>https://marcorospocher.com/files/slides/2012jist_slides.pdf</loc>
     <changefreq>weekly</changefreq>
   </url>
   <url>
@@ -350,7 +354,7 @@
     <changefreq>weekly</changefreq>
   </url>
   <url>
-    <loc>https://marcorospocher.com/files/slides/2012jist_slides.pdf</loc>
+    <loc>https://marcorospocher.com/files/posters/2012eswcdemo_poster.pdf</loc>
     <changefreq>weekly</changefreq>
   </url>
   <url>
@@ -362,11 +366,11 @@
     <changefreq>weekly</changefreq>
   </url>
   <url>
-    <loc>https://marcorospocher.com/files/posters/2012eswcdemo_poster.pdf</loc>
+    <loc>https://marcorospocher.com/files/bibs/2012eknow.bib</loc>
     <changefreq>weekly</changefreq>
   </url>
   <url>
-    <loc>https://marcorospocher.com/files/bibs/2012eknow.bib</loc>
+    <loc>https://marcorospocher.com/files/slides/2012eknow_slides.pdf</loc>
     <changefreq>weekly</changefreq>
   </url>
   <url>
@@ -374,11 +378,11 @@
     <changefreq>weekly</changefreq>
   </url>
   <url>
-    <loc>https://marcorospocher.com/files/bibs/2012ekaw.bib</loc>
+    <loc>https://marcorospocher.com/files/posters/2012ekawdemo_poster.pdf</loc>
     <changefreq>weekly</changefreq>
   </url>
   <url>
-    <loc>https://marcorospocher.com/files/posters/2012ekawdemo_poster.pdf</loc>
+    <loc>https://marcorospocher.com/files/bibs/2012ekaw.bib</loc>
     <changefreq>weekly</changefreq>
   </url>
   <url>
@@ -407,10 +411,6 @@
   </url>
   <url>
     <loc>https://marcorospocher.com/files/bibs/2010iswcdemo.bib</loc>
-    <changefreq>weekly</changefreq>
-  </url>
-  <url>
-    <loc>https://marcorospocher.com/files/slides/2012eknow_slides.pdf</loc>
     <changefreq>weekly</changefreq>
   </url>
   <url>
@@ -446,11 +446,11 @@
     <changefreq>weekly</changefreq>
   </url>
   <url>
-    <loc>https://marcorospocher.com/files/bibs/2008iswc.bib</loc>
+    <loc>https://marcorospocher.com/files/posters/2009eswcdemo_poster.pdf</loc>
     <changefreq>weekly</changefreq>
   </url>
   <url>
-    <loc>https://marcorospocher.com/files/posters/2009eswcdemo_poster.pdf</loc>
+    <loc>https://marcorospocher.com/files/bibs/2008iswc.bib</loc>
     <changefreq>weekly</changefreq>
   </url>
   <url>
@@ -466,19 +466,19 @@
     <changefreq>weekly</changefreq>
   </url>
   <url>
-    <loc>https://marcorospocher.com/files/bibs/2008ekaw.bib</loc>
-    <changefreq>weekly</changefreq>
-  </url>
-  <url>
-    <loc>https://marcorospocher.com/files/bibs/2017knowrsh.bib</loc>
-    <changefreq>weekly</changefreq>
-  </url>
-  <url>
     <loc>https://marcorospocher.com/files/slides/2008icsoc_slides.pdf</loc>
     <changefreq>weekly</changefreq>
   </url>
   <url>
+    <loc>https://marcorospocher.com/files/bibs/2008ekaw.bib</loc>
+    <changefreq>weekly</changefreq>
+  </url>
+  <url>
     <loc>https://marcorospocher.com/files/posters/2008ekaw_poster.pdf</loc>
+    <changefreq>weekly</changefreq>
+  </url>
+  <url>
+    <loc>https://marcorospocher.com/files/bibs/2017knowrsh.bib</loc>
     <changefreq>weekly</changefreq>
   </url>
   <url>
@@ -510,11 +510,11 @@
     <changefreq>weekly</changefreq>
   </url>
   <url>
-    <loc>https://marcorospocher.com/files/bibs/2014iswcSemDev01.bib</loc>
+    <loc>https://marcorospocher.com/files/slides/2014iswcSemDev02_slides.pdf</loc>
     <changefreq>weekly</changefreq>
   </url>
   <url>
-    <loc>https://marcorospocher.com/files/slides/2014iswcSemDev02_slides.pdf</loc>
+    <loc>https://marcorospocher.com/files/bibs/2014iswcSemDev01.bib</loc>
     <changefreq>weekly</changefreq>
   </url>
   <url>
@@ -622,11 +622,19 @@
     <changefreq>weekly</changefreq>
   </url>
   <url>
-    <loc>https://marcorospocher.com/files/slides/2015nwr_slides.pdf</loc>
+    <loc>https://marcorospocher.com/files/slides/2019DIuniVR_slides.pdf</loc>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://marcorospocher.com/files/slides/2018scc_slides.pdf</loc>
+    <changefreq>weekly</changefreq>
+  </url>
+  <url>
+    <loc>https://marcorospocher.com/files/slides/2018semdeep4_slides.pdf</loc>
+    <changefreq>weekly</changefreq>
+  </url>
+  <url>
+    <loc>https://marcorospocher.com/files/slides/2015nwr_slides.pdf</loc>
     <changefreq>weekly</changefreq>
   </url>
   <url>
@@ -638,19 +646,11 @@
     <changefreq>weekly</changefreq>
   </url>
   <url>
-    <loc>https://marcorospocher.com/files/slides/2019DIuniVR_slides.pdf</loc>
-    <changefreq>weekly</changefreq>
-  </url>
-  <url>
-    <loc>https://marcorospocher.com/files/slides/2012winter_slides.pdf</loc>
-    <changefreq>weekly</changefreq>
-  </url>
-  <url>
     <loc>https://marcorospocher.com/files/slides/2015jpn_slides.pdf</loc>
     <changefreq>weekly</changefreq>
   </url>
   <url>
-    <loc>https://marcorospocher.com/files/slides/2018semdeep4_slides.pdf</loc>
+    <loc>https://marcorospocher.com/files/slides/2012winter_slides.pdf</loc>
     <changefreq>weekly</changefreq>
   </url>
   <url>
@@ -662,19 +662,7 @@
     <changefreq>weekly</changefreq>
   </url>
   <url>
-    <loc>https://marcorospocher.com/files/slides/2006itc_slides.pdf</loc>
-    <changefreq>weekly</changefreq>
-  </url>
-  <url>
     <loc>https://marcorospocher.com/files/slides/2011ict_slides.pdf</loc>
-    <changefreq>weekly</changefreq>
-  </url>
-  <url>
-    <loc>https://marcorospocher.com/files/slides/2006phd_slides.pdf</loc>
-    <changefreq>weekly</changefreq>
-  </url>
-  <url>
-    <loc>https://marcorospocher.com/backup-resources/bpmn/</loc>
     <changefreq>weekly</changefreq>
   </url>
   <url>
@@ -682,7 +670,19 @@
     <changefreq>weekly</changefreq>
   </url>
   <url>
-    <loc>https://marcorospocher.com/backup-resources/pescado/</loc>
+    <loc>https://marcorospocher.com/files/slides/2009active_slides.pdf</loc>
+    <changefreq>weekly</changefreq>
+  </url>
+  <url>
+    <loc>https://marcorospocher.com/files/slides/2006itc_slides.pdf</loc>
+    <changefreq>weekly</changefreq>
+  </url>
+  <url>
+    <loc>https://marcorospocher.com/files/slides/2006phd_slides.pdf</loc>
+    <changefreq>weekly</changefreq>
+  </url>
+  <url>
+    <loc>https://marcorospocher.com/files/slides/2018iswc_research_slides.pdf</loc>
     <changefreq>weekly</changefreq>
   </url>
   <url>
@@ -690,7 +690,11 @@
     <changefreq>weekly</changefreq>
   </url>
   <url>
-    <loc>https://marcorospocher.com/files/slides/2009active_slides.pdf</loc>
+    <loc>https://marcorospocher.com/backup-resources/bpmn/</loc>
+    <changefreq>weekly</changefreq>
+  </url>
+  <url>
+    <loc>https://marcorospocher.com/backup-resources/pescado/</loc>
     <changefreq>weekly</changefreq>
   </url>
   <url>
@@ -699,10 +703,6 @@
   </url>
   <url>
     <loc>https://marcorospocher.com/backup-resources/bpmn/MergingAxiomsBPMN-DOLCE.html</loc>
-    <changefreq>weekly</changefreq>
-  </url>
-  <url>
-    <loc>https://marcorospocher.com/files/slides/2018iswc_research_slides.pdf</loc>
     <changefreq>weekly</changefreq>
   </url>
   <url>
