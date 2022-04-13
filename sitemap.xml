@@ -126,6 +126,10 @@
     <changefreq>weekly</changefreq>
   </url>
   <url>
+    <loc>https://marcorospocher.com/files/bibs/2022assiterm.bib</loc>
+    <changefreq>weekly</changefreq>
+  </url>
+  <url>
     <loc>https://marcorospocher.com/files/bibs/2018kschap.bib</loc>
     <changefreq>weekly</changefreq>
   </url>
@@ -139,6 +143,10 @@
   </url>
   <url>
     <loc>https://marcorospocher.com/files/bibs/2008ecaiw.bib</loc>
+    <changefreq>weekly</changefreq>
+  </url>
+  <url>
+    <loc>https://marcorospocher.com/files/bibs/2022lrec.bib</loc>
     <changefreq>weekly</changefreq>
   </url>
   <url>
