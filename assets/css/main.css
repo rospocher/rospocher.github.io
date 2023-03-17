@@ -43,7 +43,7 @@
 }
 
 .bibitem {
-    text-align: justify;
+    text-align: left;
 }
 
 .bibtitle {
@@ -61,6 +61,15 @@
 
 .project {
     margin-bottom: 3em;
+    
+}
+
+
+.resource {
+	margin-bottom: 3em;
+	margin-left: 2em;
+	margin-top: 3em;
+	margin-right: 2em;	
 }
 
 .about-block{
