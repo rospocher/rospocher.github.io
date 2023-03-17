@@ -306,10 +306,6 @@
     <changefreq>weekly</changefreq>
   </url>
   <url>
-    <loc>https://marcorospocher.com/files/bibs/2010swap.bib</loc>
-    <changefreq>weekly</changefreq>
-  </url>
-  <url>
     <loc>https://marcorospocher.com/files/bibs/2010iswcdemo.bib</loc>
     <changefreq>weekly</changefreq>
   </url>
@@ -403,6 +399,10 @@
   </url>
   <url>
     <loc>https://marcorospocher.com/files/bibs/2012isql.bib</loc>
+    <changefreq>weekly</changefreq>
+  </url>
+  <url>
+    <loc>https://marcorospocher.com/files/bibs/2010swap.bib</loc>
     <changefreq>weekly</changefreq>
   </url>
   <url>
