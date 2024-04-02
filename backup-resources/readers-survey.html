@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Esperimento AI</title>
+</head>
+<body>
+
+<h2 style="text-align: center">Grazie per la sua disponibilità a partecipare al nostro esperimento. Per favore, scelga il suo mese di nascita:</h2>
+<div style="width: 10%; margin: 0px auto;">
+  <select id="meseNascita">
+    <option value="gennaio">Gennaio</option>
+    <option value="febbraio">Febbraio</option>
+    <option value="marzo">Marzo</option>
+    <option value="aprile">Aprile</option>
+    <option value="maggio">Maggio</option>
+    <option value="giugno">Giugno</option>
+    <option value="luglio">Luglio</option>
+    <option value="agosto">Agosto</option>
+    <option value="settembre">Settembre</option>
+    <option value="ottobre">Ottobre</option>
+    <option value="novembre">Novembre</option>
+    <option value="dicembre">Dicembre</option>
+	</select>
+	<button onclick="redirect()">Vai</button>
+</div>
+
+<script>
+function redirect() {
+  var mese = document.getElementById("meseNascita").value;
+  var links = {
+    'gennaio': 'https://www.psytoolkit.org/c/3.4.6/survey?s=s6UH2',
+    'febbraio': 'https://www.psytoolkit.org/c/3.4.6/survey?s=MqQdU',
+    'marzo': 'https://www.psytoolkit.org/c/3.4.6/survey?s=A7vSx',
+    'aprile': 'https://www.psytoolkit.org/c/3.4.6/survey?s=HBgjC',
+    'maggio': 'https://www.psytoolkit.org/c/3.4.6/survey?s=52hsT',
+    'giugno': 'https://www.psytoolkit.org/c/3.4.6/survey?s=M9SvQ',
+    'luglio': 'https://www.psytoolkit.org/c/3.4.6/survey?s=Bmvc4',
+    'agosto': 'https://www.psytoolkit.org/c/3.4.6/survey?s=9aaUE',
+    'settembre': 'https://www.psytoolkit.org/c/3.4.6/survey?s=C5r9U',
+    'ottobre': 'https://www.psytoolkit.org/c/3.4.6/survey?s=BpKNv',
+    'novembre': 'https://www.psytoolkit.org/c/3.4.6/survey?s=NKkh9',
+    'dicembre': 'https://www.psytoolkit.org/c/3.4.6/survey?s=OYyHx'
+  };
+  var link = links[mese];
+  if (link) {
+    window.location.href = link;
+  } else {
+    alert("Per favore, selezioni un mese di nascita valido.");
+  }
+}
+</script>
+</body>
+</html>
