@@ -836,7 +836,7 @@
 */        
 		font-family: 'Source Sans Pro', sans-serif;
 		font-weight: 300;
-		color: #777777;
+		color: #1b1e29;
 
         background-color: #a20261;
         background: #90065e;
@@ -864,7 +864,7 @@
 	input, textarea, select {
 		font-family: 'Source Sans Pro', sans-serif;
 		font-weight: 300;
-		color: #777777;
+		color: #1b1e29;
 	}
 
 	strong, b, h1, h2, h3, h4, h5, h6 {
@@ -1081,7 +1081,7 @@
 		input[type="reset"].alt,
 		button.alt,
 		.button.alt {
-			background-color: #777777;
+			background-color: #1b1e29;
 		}
 
 			input[type="button"].alt:hover,
