@@ -1197,12 +1197,12 @@
 
 	#footer {
 		color: #ccc;
-		color: rgba(255, 255, 255, 0.45);
+		color: rgb(255, 255, 255);
 	}
 
 		#footer a {
 			color: #ddd;
-			color: rgba(255, 255, 255, 0.65);
+			color: rgba(255, 255, 255);
 			-moz-transition: color .25s ease-in-out;
 			-webkit-transition: color .25s ease-in-out;
 			-ms-transition: color .25s ease-in-out;
@@ -1343,9 +1343,14 @@
 				text-align: center;
 				height: 4.25em;
 				cursor: default;
+				list-style: none;
+				display: flex;
+				justify-content: center;
+				padding-left: 0;
+				margin-bottom: 0;
 			}
 
-				#nav a {
+				#nav li a {
 					font-size: 2.5em;
 					margin: 0 0.25em 0 0.25em;
 					opacity: 0.35;
@@ -1356,11 +1361,11 @@
 					transition: opacity .25s ease-in-out;
 				}
 
-					#nav a:before {
+					#nav li a:before {
 						font-size: 0.8em;
 					}
 
-					#nav a:after {
+					#nav li a:after {
 						content: '';
 						display: block;
 						position: absolute;
@@ -1376,7 +1381,7 @@
 						transition: border-bottom-width .25s ease-in-out;
 					}
 
-					#nav a span {
+					#nav li a span {
 						display: block;
 						position: absolute;
 						background: #222222;
@@ -1395,7 +1400,7 @@
 						margin-left: -3.25em;
 					}
 
-						#nav a span:after {
+						#nav li a span:after {
 							content: '';
 							display: block;
 							position: absolute;
@@ -1407,19 +1412,19 @@
 							border-right: solid 0.6em transparent;
 						}
 
-					#nav a:hover {
+					#nav li a:hover {
 						opacity: 1.0;
 					}
 
-						#nav a:hover span {
+						#nav li a:hover span {
 							opacity: 1.0;
 						}
 
-					#nav a.active {
+					#nav li a.active {
 						opacity: 1.0;
 					}
 
-						#nav a.active:after {
+						#nav li a.active:after {
 							border-bottom-width: 0.5em;
 						}
 
@@ -1505,6 +1510,9 @@
 					width: 100%;
 					height: 100%;
 					margin-left: 2.5em;
+					display: flex;
+					flex-direction: column;
+					align-items: center;
 				}
 
 					#me header > h1 {
@@ -1514,14 +1522,41 @@
 						margin: 0;
 					}
 
-					#me header > p {
+/* 					#me header > p {
 						position: relative;
 						left: 0;
 						top: 72.5%;
 						font-size: 1.3em;
 						letter-spacing: -0.015em;
 						margin-top: 0;
+					} */
+
+					#me nav {
+						justify-content: left;
+						position: absolute;
+						left: 0;
+						bottom: 15%;
+						margin: 0;
 					}
+
+					  
+					#me  nav ul {
+						list-style: none;
+						margin: 0;
+						padding: 0;
+						display: flex;
+					  }
+					  
+					#me  nav li {
+						margin: 0 1rem 0 0;
+					  }
+					  
+					#me  nav a {
+						color: white;
+						text-decoration: none;
+					  }
+
+
 
 		/* Footer */
 
@@ -1609,10 +1644,15 @@
 
 			#nav {
 				text-align: center;
-				margin: 6px 0 8px 0;
+				margin: 8px 0 8px 0;
+				list-style: none;
+				display: flex;
+				flex-wrap: wrap;
+				justify-content: center;
+				padding-left: 0;			
 			}
 
-				#nav a {
+				#nav li a {
 					font-size: 2em;
 					opacity: 0.5;
 					outline: 0;
@@ -1622,11 +1662,11 @@
 					margin: 0 0.25em 0 0.25em;
 				}
 
-					#nav a:active {
+					#nav li a:active {
 						opacity: 1.0;
 					}
 
-					#nav a span {
+					#nav li a span {
 						display: none;
 					}
 
@@ -1675,6 +1715,25 @@
 				#me header > p {
 					font-size: 1.25em;
 				}
+
+				#me nav ul {
+					list-style: none;
+					margin: 2rem;
+					padding: 0;
+					display: flex;
+					flex-wrap: wrap;
+					justify-content: center;	
+				  }
+				  
+				#me  nav li {
+					margin: 0 1rem 0 0;
+				  }
+				  
+				#me  nav a {
+					color: white;
+					text-decoration: none;
+				  }
+
 
 		/* Footer */
 
