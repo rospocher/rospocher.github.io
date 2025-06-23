@@ -10,7 +10,8 @@
 
 .highlight { 
     /* color: #005fa3; */
-	color: #b509ac;
+	/* color: #b509ac; */
+	color: black;
 	font-weight: 400;
 }
 
@@ -1144,7 +1145,7 @@ a {
 		position: relative;
 		text-decoration: none;
   		-webkit-text-stroke: 1px black; /* black border */
-		text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.4); /* subtle shadow */
+		text-shadow: 2px 2px 4px #b509ac65; /* subtle shadow */
 	}
 
 		.icon:before {	
@@ -1457,7 +1458,7 @@ a {
 				width: 45em;
 				background: #ffffff;
 
-				box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.4); /* subtle shadow */
+				box-shadow: 2px 2px 4px #b509ac65; /* subtle shadow */
 			}
 
 			.panel {
@@ -1704,7 +1705,7 @@ a {
 				padding: 15px 15px 15px 15px;
 				margin: 0 0 7px 0;
 				background: #ffffff;
-				box-shadow: 0px 1px 0px 0px rgba(0, 0, 0, 0.25);
+				box-shadow: 0px 1px 0px 0px #b509ac65;
 			}
 
 				.panel header {
