@@ -957,7 +957,6 @@ a {
 	form input[type="password"],
 	form select,
 	form textarea {
-		-webkit-appearance: none;
 		border: 0;
 		background: #f4f4f4;
 		padding: 0.75em;
@@ -1057,7 +1056,6 @@ a {
 	input[type="reset"],
 	button,
 	.button {
-		-webkit-appearance: none;
 		display: inline-block;
 		background-color: #222222;
 		color: #ffffff;
@@ -1216,7 +1214,7 @@ a {
 
 	#footer {
 		
-		color: black
+		color: black;
 	}
 
 		#footer a {
@@ -1473,7 +1471,7 @@ a {
 
 			#me {
 				padding: 0;
-				height: 25em; #was 20em
+				height: 25em; /* was 20em */
 			}
 
 				#me .pic {
