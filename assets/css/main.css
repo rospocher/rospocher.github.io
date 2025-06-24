@@ -8,6 +8,7 @@
 */
 
 
+
 .highlight { 
     /* color: #005fa3; */
 	/* color: #b509ac; */
@@ -98,8 +99,12 @@ a {
 		margin: 0;
 		padding: 0;
 		border: 0;
-		font-size: 100%;
-		font: inherit;
+		font-family: "Roboto", sans-serif;
+		font-optical-sizing: auto;
+		font-weight: 100;
+		font-style: normal;
+		font-variation-settings: 
+			"wdth" 100;
 		vertical-align: baseline;
 	}
 
@@ -878,7 +883,7 @@ a {
 	}
 
 	strong, b, h1, h2, h3, h4, h5, h6 {
-		font-weight: 400;
+		font-weight: 590;
 		color: #363636;
 	}
 
