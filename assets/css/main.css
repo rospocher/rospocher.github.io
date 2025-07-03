@@ -101,7 +101,7 @@ a {
 		border: 0;
 		font-family: "Roboto", sans-serif;
 		font-optical-sizing: auto;
-		font-weight: 100;
+		font-weight: 250;
 		font-style: normal;
 		font-variation-settings: 
 			"wdth" 100;
@@ -1603,7 +1603,7 @@ a {
 		/* Basic */
 
 			body, input, textarea, select {
-				font-size: 11pt;
+				font-size: 12pt;
 				line-height: 1.75em;
 			}
 
