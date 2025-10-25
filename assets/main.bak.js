@@ -29,24 +29,15 @@
 
 	$window.on('load', function() {
 
-skel
+		skel
 			.breakpoints({
-				// New Desktop starts at 1025px
-				desktop: '(min-width: 1025px)',
-				// Added Tablet breakpoint
-				tablet: '(min-width: 768px) and (max-width: 1024px)', 
-				// New Mobile ends at 767px
-				mobile: '(max-width: 767px)'
+				desktop: '(min-width: 737px)',
+				mobile: '(max-width: 736px)'
 			})
 			.viewport({
 				breakpoints: {
 					desktop: {
 						width: 1080,
-						scalable: true
-					},
-					// Added Tablet viewport settings (e.g., width 980px)
-					tablet: { 
-						width: 980,
 						scalable: true
 					}
 				}
@@ -247,26 +238,6 @@ skel
 
 			});
 
-	});
-
-	var $toTopButton = $('<a href="#top" id="to-top" class="fa fa-chevron-up"></a>').appendTo('body');
-	var scrollThreshold = 200; // Pixels to scroll down before the button appears
-
-	$window.scroll(function() {
-		// Show/hide the button based on scroll position
-		if ($window.scrollTop() > scrollThreshold) {
-			$toTopButton.addClass('visible');
-		} else {
-			$toTopButton.removeClass('visible');
-		}
-	});
-
-	$toTopButton.on('click', function(e) {
-		e.preventDefault();
-		// Smoothly scroll the page to the top
-		$('html, body').animate({
-			scrollTop: 0
-		}, 10); // 500ms duration for smooth scroll
 	});
 
 })(jQuery);
